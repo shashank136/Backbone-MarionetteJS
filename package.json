@@ -1,0 +1,18 @@
+{
+  "name": "marionette_backbone",
+  "version": "1.0.0",
+  "description": "smart Ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shashank",
+  "license": "ISC",
+  "dependencies": {
+    "backbone": "^1.3.3",
+    "backbone.marionette": "^2.4.7",
+    "jquery": "^3.4.1",
+    "node-underscorify": "0.0.14",
+    "underscore": "^1.8.3"
+  }
+}
